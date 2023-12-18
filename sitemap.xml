@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc />
+    <lastmod>2023-12-18</lastmod>
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="DEFAULT">
+    <loc>index.htm</loc>
+    <lastmod>2023-12-18</lastmod>
+  </url>
+  <url oeid="509ade0c-381e-473c-9e72-b822d3a39c77" oelang="DEFAULT">
+    <loc>Works.htm</loc>
+    <lastmod>2023-12-18</lastmod>
+  </url>
+  <url oeid="0cb50c58-efea-4f06-8606-5bad3c0de714" oelang="DEFAULT">
+    <loc>About.htm</loc>
+    <lastmod>2023-12-18</lastmod>
+  </url>
+  <url oeid="eddd661c-98a9-43d2-baf5-695a8c8099e9" oelang="DEFAULT">
+    <loc>Contact.htm</loc>
+    <lastmod>2023-12-18</lastmod>
+  </url>
+  <url oeid="b1bc5be3-1abf-4bd5-a1c6-d10d8f236cc0" oelang="DEFAULT">
+    <loc>nav.htm</loc>
+    <lastmod>2023-12-18</lastmod>
+  </url>
+</urlset>
